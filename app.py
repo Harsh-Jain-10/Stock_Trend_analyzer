@@ -127,7 +127,7 @@ try:
     fig_ma.update_layout(title="Moving Averages", xaxis_title="Date", yaxis_title="Price")
     st.plotly_chart(fig_ma, use_container_width=True)
 
-    # ============ SUMMARY ============
+    
     st.success(f"📌 Predicted next day closing price for {ticker}: **${future_predictions[0]:.2f}**")
     st.info(f"📅 Predicted closing price after {forecast_days} days: **${future_predictions[-1]:.2f}**")
 
