@@ -22,3 +22,12 @@ A powerful and intuitive Streamlit app that analyzes historical stock data, pred
 ---
 
 > This tool is ideal for students, data science learners, or anyone who wants to experiment with stock price forecasting without diving deep into code.
+
+
+---
+## 📥 Clone This Repository
+
+To get a local copy of the project up and running on your machine, open your terminal and run:
+
+git clone https://github.com/Harsh-Jain-10/stock-trend-analyzer.git
+
