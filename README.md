@@ -13,7 +13,7 @@ A powerful and intuitive Streamlit app that analyzes historical stock data, pred
 ## 💼 Built With
 - Python
 - Streamlit
-- scikit-learn
+- scikit-learn  
 - yFinance
 - Plotly
 - Seaborn & Matplotlib
