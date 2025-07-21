@@ -9,7 +9,7 @@ A powerful and intuitive Streamlit app that analyzes historical stock data, pred
 - 🧮 Correlation heatmap and moving average visualizations (100-day & 200-day)
 - 📥 Download forecast data as CSV
 - 🎛️ Customizable forecast horizon and training window
-
+ 
 ## 💼 Built With
 - Python
 - Streamlit
